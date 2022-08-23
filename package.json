@@ -7,5 +7,13 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mco-03/sass.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mco-03/sass/issues"
+  },
+  "homepage": "https://github.com/mco-03/sass#readme",
   "description": ""
 }

@@ -1,11 +1,19 @@
 /* Comentario de bloque CSS puro otro comentario */ /*ANIDAMIENTO */
 .caja h2 {
-  color: rgb(222, 14, 187);
+  color: palevioletred;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 .caja p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-decoration: none;
+}
+
+.caja2 div {
+  background-color: beige;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
 }
 
 /* VARIABLES*/
